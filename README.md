@@ -5,4 +5,4 @@ blah
 
 ## subheader
 
-blah blah blah
+blah
